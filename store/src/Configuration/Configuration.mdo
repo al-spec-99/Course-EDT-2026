@@ -40,6 +40,7 @@
   </languages>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Производители</catalogs>
   <documents>Document.ПриходнаяНакладная</documents>
   <documents>Document.РеализацияТоваров</documents>
   <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>
