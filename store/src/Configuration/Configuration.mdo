@@ -42,6 +42,7 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Производители</catalogs>
   <catalogs>Catalog.Ящерицы</catalogs>
+  <catalogs>Catalog.Ящики</catalogs>
   <documents>Document.КадровыйПеревод</documents>
   <documents>Document.ПриемНаРаботу</documents>
   <documents>Document.ПриходнаяНакладная</documents>
