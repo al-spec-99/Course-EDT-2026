@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="21d85969-d31c-44a1-a78d-de1fccd0cf7c">
+  <producedTypes>
+    <objectType typeId="0f038404-1968-42be-8325-b8bd3ef605c8" valueTypeId="92ddd4f7-f382-4311-b95e-3c7203596894"/>
+    <refType typeId="770808b6-7ccd-4ab6-af13-7fc0319b9a2e" valueTypeId="1287b035-4092-42ef-b1d5-18b04ac6a59c"/>
+    <selectionType typeId="cdf59529-17ba-478c-b54e-0f2345df5c7a" valueTypeId="9fd57008-d595-4b21-95e9-ed6a40d6b2f9"/>
+    <listType typeId="896a2626-5a8c-4002-954e-7bf067c394ec" valueTypeId="f3032803-d9d2-41c3-a74a-3c2dcf6bbdaa"/>
+    <managerType typeId="84a01290-f01b-4034-9d54-8ed6517bbe27" valueTypeId="ec5804af-5b68-4979-a324-511fc3167a66"/>
+  </producedTypes>
+  <name>Ящики</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ящики</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Ящики.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Ящики.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
